@@ -1,2 +1,9 @@
 Water-Resistance-Laboratory
 ===========================
+
+Repositorio para el codigo de la instalacion 
+**Water Resistance Laboratory**
+
+Laboratorio Agua, Plataforma Bogota
+
+2013
